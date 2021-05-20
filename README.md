@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 [Medium]: 
 [Facebook]: 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repos!</h3>
+<!-- <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repos!</h3>
