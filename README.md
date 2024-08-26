@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px" >
 ### I am Avadhoot Kesarkar 
-[<img height="30" src="https://img.shields.io/badge/twitter/follow:martian_govv&style=for-the-badge&logo=twitter&logoColor=white" />][X(Formerly twitter)]
+[<img height="30" src="https://img.shields.io/badge/twitter/follow:martian_govv&style=for-the-badge&logo=X&logoColor=white" />][X(Formerly twitter)]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 - 🌱 I’m currently learning AI & ML
 - 👯 I’m looking to collaborate on projects
