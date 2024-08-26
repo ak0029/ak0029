@@ -1,10 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px" >
-### I am Avadhut Kesarkar 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+### I am Avadhoot Kesarkar 
+[<img height="30" src="https://img.shields.io/badge/twitter/follow:martian_govv&style=for-the-badge&logo=twitter&logoColor=white" />][X(Formerly twitter)]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-- 🔭 I’m currently working on networks
-- 💬 Ask me about network troubleshooting
-- Knows little bit of Data Science
+- 🌱 I’m currently learning AI & ML
+- 👯 I’m looking to collaborate on projects
+- 🔭 I’m currently working in telco/networking field
 
 <!--
 **ak0029/ak0029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
  ![Visitor Count](https://profile-counter.glitch.me/{ak0029}/count.svg)
 
-[twitter]: https://twitter.com/a91355355
+[X]: https://X.com/martian_govv
 [youtube]: 
 [Hashnode]: 
 [gmail]: https://gmail.com
