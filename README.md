@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px" >
 ### I am Avadhoot Kesarkar 
 [<img height="30" src="https://img.shields.io/twitter/follow/martian_govv" alt="logo=X&logoColor=white" />][X]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+ [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 - 🌱 Always learner 
 - 👯 Looking to collaborate on some hands-on projects in Devops/Cybersecurity field
 - 🔭 Currently working in telco/networking field
@@ -60,8 +60,15 @@ Here are some ideas to get you started:
 
 <p align="center">Thank you for checking out my profile! </p>
 
+## 📬 Contact & Social
 
- ![Visitor Count](https://profile-counter.glitch.me/{ak0029}/count.svg)
+<p align="center">
+<a href="https://x.com/martian_govv"><img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter): @martian_govv"></a>
+<a href="https://www.linkedin.com/in/avadhootkesarkar-27669679/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Avadhoot Kesarkar"></a>
+</p>
+
+<p align="center"><em>I am open to new opportunities and collaborations.</em></p>
+
 
 [X]: https://X.com/martian_govv
 [youtube]: 
