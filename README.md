@@ -2,9 +2,9 @@
 ### I am Avadhoot Kesarkar 
 [<img height="30" src="https://img.shields.io/twitter/follow/martian_govv" alt="logo=X&logoColor=white" />][X]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-- 🌱 I’m alwys learner 
-- 👯 I’m looking to collaborate on projects some hands on in Devops/Cybersecurity field
-- 🔭 I’m currently working in telco/networking field
+- 🌱 Always learner 
+- 👯 Looking to collaborate on some hands-on projects in Devops/Cybersecurity field
+- 🔭 Currently working in telco/networking field
 
 <!--
 **ak0029/ak0029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
