@@ -1,7 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="21px" >
 ### I am Avadhoot Kesarkar 
-[<img height="30" src="https://img.shields.io/twitter/follow/martian_govv" alt="logo=X&logoColor=white" />][X]
- [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 - 🌱 Always learner 
 - 👯 Looking to collaborate on some hands-on projects in Devops/Cybersecurity field
 - 🔭 Currently working in telco/networking field
