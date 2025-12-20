@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 </details>
 
+## 💻 Technology Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
  ![Visitor Count](https://profile-counter.glitch.me/{ak0029}/count.svg)
 
